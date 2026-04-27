@@ -10,17 +10,17 @@ BrainBoost Assistant is an intelligent AI-driven learning companion designed to 
 Whether you're preparing for exams or learning something new, BrainBoost helps you learn faster and retain more.
 
 ## ✨ Features
-📄 Smart Summarization    
+## 📄 Smart Summarization    
 Convert long notes and PDFs into short, easy-to-understand summaries   
-❓ Quiz Generator   
+## ❓ Quiz Generator   
 Automatically generate practice questions to test your knowledge   
-🧠 Concept Explanation  
+## 🧠 Concept Explanation  
 Break down difficult topics into simple explanations  
-⚡ Fast & Interactive  
+## ⚡ Fast & Interactive  
 Instant responses powered by AI  
-📋 Copy & Download  
+## 📋 Copy & Download  
 Easily copy or download your study material  
-🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 Frontend: HTML, CSS, JavaScript (or React if you use it)  
 Backend: Python (Flask)  
 AI Model: OpenAI API / NLP Models  
