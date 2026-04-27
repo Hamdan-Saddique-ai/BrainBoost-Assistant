@@ -67,3 +67,48 @@ AI & Full Stack Developer
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub and share it!
+🧠 BrainBoost Assistant
+<p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Built%20With-Python-yellow?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask" /> <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/your-username/brainboost-assistant?style=social" /> <img src="https://img.shields.io/github/forks/your-username/brainboost-assistant?style=social" /> <img src="https://img.shields.io/github/license/your-username/brainboost-assistant" /> </p>
+
+AI-powered study assistant for smarter learning, faster understanding, and better results.
+
+🚀 Overview
+
+BrainBoost Assistant is an intelligent AI-driven learning companion designed to help students study more efficiently. It transforms notes, PDFs, and text into concise summaries, generates quizzes, and explains complex concepts in simple language.
+
+✨ Features
+📄 Smart Summarization
+❓ Quiz Generator
+🧠 Concept Explanation
+⚡ Fast AI Responses
+📋 Copy & Download Options
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: Python (Flask)
+AI: OpenAI API
+📦 Installation
+git clone https://github.com/your-username/brainboost-assistant.git
+cd brainboost-assistant
+pip install -r requirements.txt
+python app.py
+📸 Screenshots
+
+Add your UI images here
+
+🎯 Future Improvements
+Voice features 🎤
+Progress tracking 📊
+Multi-language 🌍
+Gamification 🎮
+👨‍💻 Author
+
+Hamdan Saddique
+
+⭐ Support
+
+Give this repo a ⭐ if you like it!
+
+💡 Pro Tip
+
+Replace your-username with your actual GitHub username:
+👉 Hamdan-Saddique-ai
