@@ -3,40 +3,29 @@
 
 AI-powered study assistant for smarter learning, faster understanding, and better results.
 
-🚀 Overview
+## 🚀 Overview
 
 BrainBoost Assistant is an intelligent AI-driven learning companion designed to help students study more efficiently. It transforms notes, PDFs, and text into concise summaries, generates quizzes, and explains complex concepts in simple language.
 
 Whether you're preparing for exams or learning something new, BrainBoost helps you learn faster and retain more.
 
-✨ Features
-📄 Smart Summarization
-Convert long notes and PDFs into short, easy-to-understand summaries
-❓ Quiz Generator
-Automatically generate practice questions to test your knowledge
-🧠 Concept Explanation
-Break down difficult topics into simple explanations
-⚡ Fast & Interactive
-Instant responses powered by AI
-📋 Copy & Download
-Easily copy or download your study material
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript (or React if you use it)
-Backend: Python (Flask)
-AI Model: OpenAI API / NLP Models
-Deployment: Vercel / Render / Heroku
-📦 Installation
-# Clone the repository
-git clone https://github.com/your-username/brainboost-assistant.git
+## ✨ Features
+📄 Smart Summarization    
+Convert long notes and PDFs into short, easy-to-understand summaries   
+❓ Quiz Generator   
+Automatically generate practice questions to test your knowledge   
+🧠 Concept Explanation  
+Break down difficult topics into simple explanations  
+⚡ Fast & Interactive  
+Instant responses powered by AI  
+📋 Copy & Download  
+Easily copy or download your study material  
+🛠️ Tech Stack  
+Frontend: HTML, CSS, JavaScript (or React if you use it)  
+Backend: Python (Flask)  
+AI Model: OpenAI API / NLP Models  
+Deployment: Vercel / Render / Heroku  
 
-# Navigate to project folder
-cd brainboost-assistant
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python app.py
 💡 Usage
 Upload your notes or paste text
 Choose an option:
