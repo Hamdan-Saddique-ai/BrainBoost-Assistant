@@ -33,8 +33,9 @@ Summarize
 Generate Quiz 
 Explain Concept 
 Get instant AI-powered results 
-## 📸 Screenshots (Add your images here) 
-(Add UI screenshots here for better presentation)
+## 📸 Screenshots 
+<img width="506" height="593" alt="Image" src="https://github.com/user-attachments/assets/57283f06-70e1-466c-9e72-38626b3e5c39" />
+
 ##  🎯 Future Improvements
 🔊 Voice input & output        
 📊 Progress tracking dashboard       
